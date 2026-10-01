@@ -1,5 +1,0 @@
-aiogram
-yt_dlp
-aiohttp
-openai-whisper
-moviepy
