@@ -1,3 +1,0 @@
-aiogram
-yt_dlp
-aiohttp
