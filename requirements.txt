@@ -1,0 +1,6 @@
+aiogram
+yt-dlp
+aiohttp
+SpeechRecognition
+pydub
+certifi
