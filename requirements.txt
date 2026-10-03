@@ -1,0 +1,8 @@
+aiogram
+yt-dlp
+aiohttp
+requests
+pydantic
+aiofiles
+certifi
+urllib3
