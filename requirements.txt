@@ -1,9 +1,0 @@
-aiogram
-yt-dlp
-openai
-aiohttp
-requests
-pydantic
-aiofiles
-certifi
-urllib3
