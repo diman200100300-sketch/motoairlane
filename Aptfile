@@ -1,0 +1,4 @@
+ffmpeg
+libffi-dev
+libssl-dev
+ca-certificates
