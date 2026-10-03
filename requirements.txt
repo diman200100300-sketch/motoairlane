@@ -1,5 +1,0 @@
-aiogram
-yt-dlp
-openai
-aiohttp
-requests
