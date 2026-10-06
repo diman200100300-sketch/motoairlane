@@ -1,0 +1,10 @@
+aiogram
+yt-dlp
+aiohttp
+requests
+pydantic
+aiofiles
+certifi
+urllib3
+Pillow
+SpeechRecognition
