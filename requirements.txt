@@ -1,0 +1,16 @@
+aiogram
+aiohttp
+requests
+pydantic
+aiofiles
+certifi
+urllib3
+Pillow
+SpeechRecognition
+rembg
+onnxruntime
+pydub
+python-dotenv
+beautifulsoup4
+yt-dlp
+gTTS
